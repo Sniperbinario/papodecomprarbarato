@@ -3,38 +3,90 @@
     {
       "id": 1,
       "nome": "Echo Dot 5ª Geração",
-      "img": "https://images.unsplash.com/photo-1588420343607-5f3b3c2a5387?q=80&w=900",
+      "img": "https://images.unsplash.com/photo-1588420343607-5f3b3c2a5387?q=80&w=1200",
       "descricao": "Caixa inteligente com Alexa — Amazon",
       "preco": "R$ 279,00",
+      "preco_antigo": "R$ 349,00",
       "loja": "Amazon",
+      "categoria": "eletronicos",
       "link": "https://www.amazon.com.br/dp/placeholder-affiliate"
     },
     {
       "id": 2,
       "nome": "Fone Bluetooth JBL Tune 510BT",
-      "img": "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?q=80&w=900",
+      "img": "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?q=80&w=1200",
       "descricao": "Fone sem fio com graves potentes — Shopee",
       "preco": "R$ 199,90",
+      "preco_antigo": "R$ 279,90",
       "loja": "Shopee",
+      "categoria": "eletronicos",
       "link": "https://shopee.com.br/product/placeholder-affiliate"
     },
     {
       "id": 3,
       "nome": "Smartwatch D20 Fit",
-      "img": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?q=80&w=900",
+      "img": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?q=80&w=1200",
       "descricao": "Relógio inteligente barato — Magalu",
       "preco": "R$ 59,90",
+      "preco_antigo": "R$ 99,90",
       "loja": "Magalu",
+      "categoria": "acessorios",
       "link": "https://www.magazineluiza.com.br/product/placeholder-affiliate"
     },
     {
       "id": 4,
       "nome": "Caixa de Som Bluetooth Portátil",
-      "img": "https://images.unsplash.com/photo-1484704849700-f032a568e944?q=80&w=900",
+      "img": "https://images.unsplash.com/photo-1484704849700-f032a568e944?q=80&w=1200",
       "descricao": "Som potente e bateria longa — Amazon",
       "preco": "R$ 129,90",
+      "preco_antigo": "R$ 199,90",
       "loja": "Amazon",
+      "categoria": "eletronicos",
       "link": "https://www.amazon.com.br/dp/placeholder-affiliate-2"
+    },
+    {
+      "id": 5,
+      "nome": "Coqueteleira Fitness 700ml",
+      "img": "https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=1200",
+      "descricao": "Para suas proteínas e shakes — Magalu",
+      "preco": "R$ 29,90",
+      "preco_antigo": "R$ 49,90",
+      "loja": "Magalu",
+      "categoria": "fitness",
+      "link": "#"
+    },
+    {
+      "id": 6,
+      "nome": "Conjunto de Utensílios de Cozinha 5pcs",
+      "img": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?q=80&w=1200",
+      "descricao": "Utensílios práticos para o dia a dia — Shopee",
+      "preco": "R$ 79,90",
+      "preco_antigo": "R$ 129,90",
+      "loja": "Shopee",
+      "categoria": "casa",
+      "link": "#"
+    },
+    {
+      "id": 7,
+      "nome": "Carregador Turbo USB-C 65W",
+      "img": "https://images.unsplash.com/photo-1510557880182-3eec5a68b7c8?q=80&w=1200",
+      "descricao": "Carga rápida para notebooks e celulares — Amazon",
+      "preco": "R$ 99,90",
+      "preco_antigo": "R$ 149,90",
+      "loja": "Amazon",
+      "categoria": "acessorios",
+      "link": "#"
+    },
+    {
+      "id": 8,
+      "nome": "Tapete de Yoga Antiderrapante",
+      "img": "https://images.unsplash.com/photo-1599058917212-1aa7b5e5c9e9?q=80&w=1200",
+      "descricao": "Pratique com conforto — Shopee",
+      "preco": "R$ 59,90",
+      "preco_antigo": "R$ 99,90",
+      "loja": "Shopee",
+      "categoria": "fitness",
+      "link": "#"
     }
   ]
 }
