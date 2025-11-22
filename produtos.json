@@ -1,0 +1,40 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Echo Dot 5ª Geração",
+      "img": "https://images.unsplash.com/photo-1588420343607-5f3b3c2a5387?q=80&w=900",
+      "descricao": "Caixa inteligente com Alexa — Amazon",
+      "preco": "R$ 279,00",
+      "loja": "Amazon",
+      "link": "https://www.amazon.com.br/dp/placeholder-affiliate"
+    },
+    {
+      "id": 2,
+      "nome": "Fone Bluetooth JBL Tune 510BT",
+      "img": "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?q=80&w=900",
+      "descricao": "Fone sem fio com graves potentes — Shopee",
+      "preco": "R$ 199,90",
+      "loja": "Shopee",
+      "link": "https://shopee.com.br/product/placeholder-affiliate"
+    },
+    {
+      "id": 3,
+      "nome": "Smartwatch D20 Fit",
+      "img": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?q=80&w=900",
+      "descricao": "Relógio inteligente barato — Magalu",
+      "preco": "R$ 59,90",
+      "loja": "Magalu",
+      "link": "https://www.magazineluiza.com.br/product/placeholder-affiliate"
+    },
+    {
+      "id": 4,
+      "nome": "Caixa de Som Bluetooth Portátil",
+      "img": "https://images.unsplash.com/photo-1484704849700-f032a568e944?q=80&w=900",
+      "descricao": "Som potente e bateria longa — Amazon",
+      "preco": "R$ 129,90",
+      "loja": "Amazon",
+      "link": "https://www.amazon.com.br/dp/placeholder-affiliate-2"
+    }
+  ]
+}
