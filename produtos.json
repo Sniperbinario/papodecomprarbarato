@@ -45,15 +45,15 @@
     "link": "https://amzn.to/4oPL3jg"
     },
     {
-      "id": 5,
-      "nome": "Coqueteleira Fitness 700ml",
-      "img": "https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=1200",
-      "descricao": "Para suas proteínas e shakes — Magalu",
-      "preco": "R$ 29,90",
-      "preco_antigo": "R$ 49,90",
-      "loja": "Magalu",
-      "categoria": "fitness",
-      "link": "#"
+  "id": 4,
+  "nome": "Soundcore P20i da Anker — Fone de Ouvido Sem Fio",
+  "img": "https://m.media-amazon.com/images/I/61ipp6r+idL._AC_SX425_.jpg",
+  "descricao": "Fone true-wireless com drivers de 10 mm, graves potentes, até 30h de bateria e Bluetooth 5.3.",
+  "preco": "R$ 166,00",
+  "preco_antigo": "R$ 299,00",
+  "loja": "Amazon",
+  "categoria": "eletronicos",
+  "link": "https://amzn.to/4rc1uYV"
     },
     {
       "id": 6,
