@@ -13,14 +13,14 @@
     },
     {
       "id": 2,
-      "nome": "Fone Bluetooth JBL Tune 510BT",
-      "img": "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?q=80&w=1200",
-      "descricao": "Fone sem fio com graves potentes — Shopee",
-      "preco": "R$ 199,90",
-      "preco_antigo": "R$ 279,90",
-      "loja": "Shopee",
+      "nome": "Echo Dot (Geração mais recente) – Cor Preta",
+      "img": "https://m.media-amazon.com/images/I/71xoR4A6qVL._AC_SL400_.jpg",
+      "descricao": "O Echo Dot com o melhor som já lançado — Amazon",
+      "preco": "R$ 349,00",
+      "preco_antigo": "R$ 399,00",
+      "loja": "Amazon",
       "categoria": "eletronicos",
-      "link": "https://shopee.com.br/product/placeholder-affiliate"
+      "link": "https://amzn.to/4obVTz2"
     },
     {
       "id": 3,
