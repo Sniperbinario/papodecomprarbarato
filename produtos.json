@@ -45,48 +45,48 @@
     "link": "https://amzn.to/4oPL3jg"
     },
     {
-  "id": 4,
-  "nome": "Soundcore P20i da Anker — Fone de Ouvido Sem Fio",
-  "img": "https://m.media-amazon.com/images/I/61ipp6r+idL._AC_SX425_.jpg",
-  "descricao": "Fone true-wireless com drivers de 10 mm, graves potentes, até 30h de bateria e Bluetooth 5.3.",
-  "preco": "R$ 166,00",
-  "preco_antigo": "R$ 299,00",
-  "loja": "Amazon",
-  "categoria": "eletronicos",
-  "link": "https://amzn.to/4rc1uYV"
+    "id": 5,
+    "nome": "Soundcore P20i da Anker — Fone de Ouvido Sem Fio",
+    "img": "https://m.media-amazon.com/images/I/61ipp6r+idL._AC_SX425_.jpg",
+    "descricao": "Fone de Ouvido Sem Fio Graves Potentes soundcore P20i da Anker",
+    "preco": "R$ 166,00",
+    "preco_antigo": "R$ 299,00",
+    "loja": "Amazon",
+    "categoria": "eletronicos",
+    "link": "https://amzn.to/4rc1uYV"
     },
     {
-      "id": 6,
-      "nome": "Conjunto de Utensílios de Cozinha 5pcs",
-      "img": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?q=80&w=1200",
-      "descricao": "Utensílios práticos para o dia a dia — Shopee",
-      "preco": "R$ 79,90",
-      "preco_antigo": "R$ 129,90",
-      "loja": "Shopee",
-      "categoria": "casa",
-      "link": "#"
+    "id": 6,
+    "nome": "Microfone Lapela Sem Fio – Compatível com Android e iPhone 15",
+    "img": "https://m.media-amazon.com/images/I/71enGNvpFyL._AC_SX569_.jpg",
+    "descricao": "Microfone Lapela Sem Fio, Compatível com Android, IPhone 15",
+    "preco": "R$ 718,00",
+    "preco_antigo": "R$ 718,00",
+    "loja": "Amazon",
+    "categoria": "eletronicos",
+    "link": "https://amzn.to/4a5kcew"
     },
     {
-      "id": 7,
-      "nome": "Carregador Turbo USB-C 65W",
-      "img": "https://images.unsplash.com/photo-1510557880182-3eec5a68b7c8?q=80&w=1200",
-      "descricao": "Carga rápida para notebooks e celulares — Amazon",
-      "preco": "R$ 99,90",
-      "preco_antigo": "R$ 149,90",
-      "loja": "Amazon",
-      "categoria": "acessorios",
-      "link": "#"
+    "id": 7,
+    "nome": "Fechadura Digital Intelbras FR 101 Touch Screen – Preto",
+    "img": "https://m.media-amazon.com/images/I/51R13R8zlmL._AC_SX569_.jpg",
+    "descricao": "Fechadura digital de sobrepor com teclado touch, alta segurança e design moderno — Intelbras FR 101 preto.",
+    "preco": "R$ 349,00",
+    "preco_antigo": "R$ 1.799,00",
+    "loja": "Amazon",
+    "categoria": "segurança",
+    "link": "https://amzn.to/48vPIkw"
     },
     {
-      "id": 8,
-      "nome": "Tapete de Yoga Antiderrapante",
-      "img": "https://images.unsplash.com/photo-1599058917212-1aa7b5e5c9e9?q=80&w=1200",
-      "descricao": "Pratique com conforto — Shopee",
-      "preco": "R$ 59,90",
-      "preco_antigo": "R$ 99,90",
-      "loja": "Shopee",
-      "categoria": "fitness",
-      "link": "#"
+    "id": 7,
+    "nome": "Redmi Watch 5 Active",
+    "img": "https://m.media-amazon.com/images/I/61iOQG77hxL._AC_SX425_.jpg",
+    "descricao": "Relógio inteligente Redmi Watch 5 Active com monitoramento de saúde, notificações, GPS e bateria de longa duração.",
+    "preco": "R$ 399,00",
+    "preco_antigo": "R$ 499,00",
+    "loja": "Amazon",
+    "categoria": "eletronicos",
+    "link": "https://amzn.to/4oUd60R"
     }
   ]
 }
