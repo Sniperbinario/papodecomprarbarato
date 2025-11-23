@@ -23,15 +23,15 @@
       "link": "https://amzn.to/4obVTz2"
     },
     {
-      "id": 3,
-      "nome": "Smartwatch D20 Fit",
-      "img": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?q=80&w=1200",
-      "descricao": "Relógio inteligente barato — Magalu",
-      "preco": "R$ 59,90",
-      "preco_antigo": "R$ 99,90",
-      "loja": "Magalu",
-      "categoria": "acessorios",
-      "link": "https://www.magazineluiza.com.br/product/placeholder-affiliate"
+     "id": 2,
+     "nome": "Pack Monster Absolutely Zero 473ml – 6 unidades",
+     "img": "https://m.media-amazon.com/images/I/61nygMB+VTL._AC_SL400_.jpg",
+     "descricao": "Energético Monster Absolutely Zero — 473ml cada unidade, pack de 6 latas, sem açúcar.",
+     "preco": "R$ 53,94",
+     "preco_antigo": "R$ 65,94",
+     "loja": "Amazon",
+     "categoria": "bebidas",
+     "link": "https://amzn.to/3X9ulPM"
     },
     {
       "id": 4,
