@@ -2,13 +2,13 @@
   "produtos": [
     {
       "id": 1,
-      "nome": "Echo Dot 5ª Geração",
-      "img": "https://images.unsplash.com/photo-1588420343607-5f3b3c2a5387?q=80&w=1200",
+      "nome": "Bone Crusher Caffeine Free - 300g Framboesa - Black Skull",
+      "img": "https://m.media-amazon.com/images/I/61roBtSNpQL._AC_SX522_.jpg",
       "descricao": "Caixa inteligente com Alexa — Amazon",
-      "preco": "R$ 279,00",
-      "preco_antigo": "R$ 349,00",
+      "preco": "R$ 71,00",
+      "preco_antigo": "R$ 85,00",
       "loja": "Amazon",
-      "categoria": "eletronicos",
+      "categoria": "Saúde",
       "link": "https://amzn.to/4oXnhC9"
     },
     {
