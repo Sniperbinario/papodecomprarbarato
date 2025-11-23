@@ -23,7 +23,7 @@
       "link": "https://amzn.to/4obVTz2"
     },
     {
-     "id": 2,
+     "id": 3,
      "nome": "Pack Monster Absolutely Zero 473ml – 6 unidades",
      "img": "https://m.media-amazon.com/images/I/61nygMB+VTL._AC_SL400_.jpg",
      "descricao": "Energético Monster Absolutely Zero — 473ml cada unidade, pack de 6 latas, sem açúcar.",
@@ -34,15 +34,15 @@
      "link": "https://amzn.to/3X9ulPM"
     },
     {
-      "id": 4,
-      "nome": "Caixa de Som Bluetooth Portátil",
-      "img": "https://images.unsplash.com/photo-1484704849700-f032a568e944?q=80&w=1200",
-      "descricao": "Som potente e bateria longa — Amazon",
-      "preco": "R$ 129,90",
-      "preco_antigo": "R$ 199,90",
-      "loja": "Amazon",
-      "categoria": "eletronicos",
-      "link": "https://www.amazon.com.br/dp/placeholder-affiliate-2"
+     "id": 4,
+    "nome": "Electrolux Pote Hermético 12 unidades A23122901 – Cinza",
+    "img": "https://m.media-amazon.com/images/I/517N5X5p4NL._AC_SX569_.jpg",
+    "descricao": "Kit com 12 potes plástico herméticos Electrolux, com anel de vedação em silicone, livres de BPA.",  
+    "preco": "R$ 80,91",
+    "preco_antigo": "R$ 96,90",
+    "loja": "Amazon",
+    "categoria": "utilidades domésticas",
+    "link": "https://amzn.to/4oPL3jg"
     },
     {
       "id": 5,
