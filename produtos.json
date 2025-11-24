@@ -87,6 +87,116 @@
     "loja": "Amazon",
     "categoria": "eletronicos",
     "link": "https://amzn.to/4oUd60R"
-    }
+    },
+    {
+    "id": 1,
+    "nome": "Fire TV Stick HD",
+    "img": "https://m.media-amazon.com/images/I/51lL5v4o9AL._AC_SL1000_.jpg",
+    "descricao": "Fire TV Stick HD com Alexa. Streaming rápido e acesso a Prime Video, Netflix, YouTube e mais.",
+    "preco": "R$ 249,00",
+    "preco_antigo": "R$ 299,00",
+    "loja": "Amazon",
+    "categoria": "eletronicos",
+    "link": "https://amzn.to/4rc1uYV"
+  },
+  {
+    "id": 2,
+    "nome": "Echo Pop",
+    "img": "https://m.media-amazon.com/images/I/61NENT0KRFL._AC_SL1500_.jpg",
+    "descricao": "Echo Pop com Alexa – Smart speaker compacto com som de qualidade e controle de casa inteligente.",
+    "preco": "R$ 299,00",
+    "preco_antigo": "R$ 349,00",
+    "loja": "Amazon",
+    "categoria": "eletronicos",
+    "link": "https://amzn.to/48vPIkw"
+  },
+  {
+    "id": 3,
+    "nome": "Kindle 16GB",
+    "img": "https://m.media-amazon.com/images/I/61N+jI59w+L._AC_SL1000_.jpg",
+    "descricao": "Kindle com 16GB, iluminação embutida e bateria de longa duração. O melhor para leitura.",
+    "preco": "R$ 499,00",
+    "preco_antigo": "R$ 599,00",
+    "loja": "Amazon",
+    "categoria": "eletronicos",
+    "link": "https://amzn.to/4a5kcew"
+  },
+  {
+    "id": 4,
+    "nome": "Echo Dot (Última Geração)",
+    "img": "https://m.media-amazon.com/images/I/61cA8CUQ9ZL._AC_SL1500_.jpg",
+    "descricao": "Echo Dot com Alexa – som ainda mais potente, comandos de voz e automações inteligentes.",
+    "preco": "R$ 399,00",
+    "preco_antigo": "R$ 499,00",
+    "loja": "Amazon",
+    "categoria": "eletronicos",
+    "link": "https://amzn.to/4a5kcew"
+  },
+  {
+    "id": 5,
+    "nome": "Kindle Paperwhite 16GB",
+    "img": "https://m.media-amazon.com/images/I/71zQpD8YrcS._AC_SL1500_.jpg",
+    "descricao": "Kindle Paperwhite 16GB – tela com iluminação ajustável, resistente à água e bateria de até 10 semanas.",
+    "preco": "R$ 699,00",
+    "preco_antigo": "R$ 799,00",
+    "loja": "Amazon",
+    "categoria": "eletronicos",
+    "link": "https://amzn.to/4oUd60R"
+  },
+  {
+    "id": 6,
+    "nome": "Pilha Recarregável Elgin AAA 1000mAh",
+    "img": "https://m.media-amazon.com/images/I/51UZVAk0nhL._AC_SL1000_.jpg",
+    "descricao": "Pilha recarregável AAA Elgin 1000mAh – durabilidade e eficiência para controles, brinquedos e eletrônicos.",
+    "preco": "R$ 39,90",
+    "preco_antigo": "R$ 49,90",
+    "loja": "Amazon",
+    "categoria": "eletronicos",
+    "link": "https://amzn.to/4a5kcew"
+  },
+  {
+    "id": 7,
+    "nome": "JBL Tune 520BT",
+    "img": "https://m.media-amazon.com/images/I/61VZ9e9hNhL._AC_SL1500_.jpg",
+    "descricao": "Fone de ouvido JBL Tune 520BT – Bluetooth, graves potentes e bateria de longa duração.",
+    "preco": "R$ 179,00",
+    "preco_antigo": "R$ 239,00",
+    "loja": "Amazon",
+    "categoria": "eletronicos",
+    "link": "https://amzn.to/4rc1uYV"
+  },
+  {
+    "id": 8,
+    "nome": "Xiaomi Redmi Note 14 (8GB/256GB)",
+    "img": "https://m.media-amazon.com/images/I/61P0X9IYoFL._AC_SL1500_.jpg",
+    "descricao": "Smartphone Redmi Note 14 com câmera avançada, ótimo desempenho e excelente custo-benefício.",
+    "preco": "R$ 1.399,00",
+    "preco_antigo": "R$ 1.699,00",
+    "loja": "Amazon",
+    "categoria": "eletronicos",
+    "link": "https://amzn.to/4a5kcew"
+  },
+  {
+    "id": 9,
+    "nome": "Pilha Alcalina Duracell AA (16 unidades)",
+    "img": "https://m.media-amazon.com/images/I/81oK1xqS9vL._AC_SL1500_.jpg",
+    "descricao": "Pilha Alcalina Duracell AA – desempenho superior e longa duração para todos os seus eletrônicos.",
+    "preco": "R$ 45,90",
+    "preco_antigo": "R$ 59,90",
+    "loja": "Amazon",
+    "categoria": "eletronicos",
+    "link": "https://amzn.to/48vPIkw"
+  },
+  {
+    "id": 10,
+    "nome": "Philips TAT1109 TWS",
+    "img": "https://m.media-amazon.com/images/I/61zxZSSj44L._AC_SL1500_.jpg",
+    "descricao": "Fone sem fio Philips TAT1109 – Bluetooth, formato compacto e ótima qualidade de áudio.",
+    "preco": "R$ 109,90",
+    "preco_antigo": "R$ 159,90",
+    "loja": "Amazon",
+    "categoria": "eletronicos",
+    "link": "https://amzn.to/4oUd60R"
+  }
   ]
 }
